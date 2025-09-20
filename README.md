@@ -155,8 +155,3 @@ Contributions are welcome! Please open an issue or pull request with:
 - Why it’s awesome for TypeScript backends.
 
 ---
-
-## License
-
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - Share and adapt with attribution.
-
