@@ -4,7 +4,6 @@ A curated list of **TypeScript backend frameworks, libraries, fullstack examples
 Focused on production-grade tooling, patterns, and real-world apps.  
 
 
-
 ## Contents
 
 - [Awesome TypeScript Backends ](#awesome-typescript-backends-)
@@ -26,16 +25,17 @@ Focused on production-grade tooling, patterns, and real-world apps.
 
 ## Frameworks
 
-- [NestJS](https://nestjs.com/) - Progressive Node.js framework with modular architecture and DI.
-- [Fastify](https://fastify.dev/) - High-performance HTTP framework, great TypeScript support.
 - [Hono](https://hono.dev/) - Tiny, fast web framework for Node.js, Bun, Deno, and Edge runtimes.
+- [Elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [FoalTS](https://foalts.org/) - TypeScript-first Node.js framework with batteries included.
 - [AdonisJS](https://adonisjs.com/) - Full-featured backend framework with TS-first philosophy.
+- [NestJS](https://nestjs.com/) - Progressive Node.js framework with modular architecture and DI.
+- [Fastify](https://fastify.dev/) - High-performance HTTP framework, great TypeScript support.
 - [Blitz.js](https://blitzjs.com/) - Fullstack framework built on Next.js with APIs included.
 - [RedwoodJS](https://redwoodjs.com/) - Opinionated fullstack JS/TS framework (GraphQL + React).
-- [Remix](https://remix.run/) - Fullstack framework with first-class TS support.
+- [Remix/React Router (who knows?)](https://github.com/remix-run/react-router) - Multi-strategy router for React. Can be used as a React framework or as a library.
 - [tRPC](https://trpc.io/) - End-to-end type-safe APIs without code generation.
-
+- [ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
 ---
 
 ## Libraries
@@ -80,8 +80,7 @@ Focused on production-grade tooling, patterns, and real-world apps.
 - [Clerk](https://clerk.com/) - Authentication & user management SDK with TS support.
 - [SuperTokens](https://supertokens.com/) - Open-source authentication with sessions.
 - [jose](https://github.com/panva/jose) - Modern JOSE implementation for JWT/JWS/JWE.
-- [node-jose](https://github.com/cisco/node-jose) - Another JOSE standards implementation.
-
+- [Better Auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 ---
 
 ## Architectural Patterns
@@ -96,27 +95,24 @@ Focused on production-grade tooling, patterns, and real-world apps.
 
 ## Starters & Boilerplates
 
+Most starters that I've found are either unmaintained or pure LLM garbage.
+Please contribute if you know something interesting.
+
 - [jsynowiec/node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) - Minimal, opinionated Node.js project template with TS.
-- [express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - Express.js starter with TypeScript, Docker, and testing.
-- [typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter) - Clean architecture starter for Express + TS.
-- [nestjs-boilerplate](https://github.com/Vivify-Ideas/nestjs-boilerplate) - Enterprise-ready NestJS boilerplate with TypeORM, Passport, and testing.
-- [typescript-backend-toolkit](https://github.com/muneebhashone/typescript-backend-toolkit) - Toolkit with Express, Prisma, testing, and configs.
-- [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs) - Node.js + TypeScript project architecture example.
+- [](https://github.com/honojs/starter) - Hono starter template
 
 ---
 
 ## Fullstack Examples
-
-- [Sairyss/fullstack-starter-template](https://github.com/Sairyss/fullstack-starter-template) - React + Fastify + tRPC + Prisma + Zod.
+- [n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - TS CMS with Next.js frontend and Node backend.
-- [LandazuriPaul/nest-react](https://github.com/LandazuriPaul/nest-react) - Monorepo with NestJS backend and React frontend.
-- [yemiwebby/nest-react-project](https://github.com/yemiwebby/nest-react-project) - Blog app with Nest backend and React frontend.
-- [lujakob/nestjs-realworld-example-app](https://github.com/lujakob/nestjs-realworld-example-app) - Conduit API (RealWorld spec) in NestJS.
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - Fullstack framework, GraphQL + React.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - Fullstack framework on Next.js.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Open-source scheduling platform, fullstack TS.
 - [Medplum/medplum](https://github.com/medplum/medplum) - Open-source healthcare platform with React + Node.
 - [supabase/supabase](https://github.com/supabase/supabase) - BaaS with strong TS ecosystem.
+- [pydantic-ai-gateway](https://github.com/pydantic/pydantic-ai-gateway) - An AI Gateway from Pydantic (PAIG)
+- [Novu](https://github.com/novuhq/novu) - Open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 
 ---
 
