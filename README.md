@@ -100,6 +100,7 @@ Please contribute if you know something interesting.
 
 - [jsynowiec/node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) - Minimal, opinionated Node.js project template with TS.
 - [](https://github.com/honojs/starter) - Hono starter template
+- [SaaS Starter by Cloudrix](https://github.com/sayahweb2-png/saas-starter-lite) - Production-ready NestJS + Angular SaaS boilerplate with auth, Stripe, multi-tenancy, RBAC, and MIT license.
 
 ---
 
