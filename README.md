@@ -81,6 +81,7 @@ Focused on production-grade tooling, patterns, and real-world apps.
 - [SuperTokens](https://supertokens.com/) - Open-source authentication with sessions.
 - [jose](https://github.com/panva/jose) - Modern JOSE implementation for JWT/JWS/JWE.
 - [Better Auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+- [antiRea](https://github.com/dankezo/antiRea) - Server-side toolkit that meters dataset access per identity and detects coordinated bot abuse with advisory signals.
 ---
 
 ## Architectural Patterns
