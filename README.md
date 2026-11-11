@@ -70,6 +70,7 @@ Focused on production-grade tooling, patterns, and real-world apps.
 - [Kysely](https://kysely.dev/) - Type-safe SQL query builder.
 - [Sequelize](https://sequelize.org/) - Classic ORM with TS typings.
 - [MikroORM](https://mikro-orm.io/) - TS-first ORM with Data Mapper and Unit of Work.
+- [@shtora/d1](https://github.com/orgShtora-1/d1) - Lightweight TypeScript client for Cloudflare D1; prerelease and not yet published to npm.
 
 ---
 
