@@ -132,11 +132,11 @@ Please contribute if you know something interesting.
 ## Learning Resources
 
 - [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/) - Comprehensive free TS book.
-- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - A free and open-source TS book covering fundamentals through advanced concepts.
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - A free and open-source TypeScript book covering fundamentals through advanced concepts.
 - [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript) - Idiomatic clean code practices in TS.
-- [Practical Guide to FP in TS](https://dev.to/gcanti/getting-started-with-fp-ts-setoid-39f3) - Intro to fp-ts and functional backend programming.
-- [NestJS Docs](https://docs.nestjs.com/) - Learn modular backend architecture.
-- [Effect Docs](https://effect.website/docs/essentials/overview) - Structured concurrency and typed effects.
+- [Practical Guide to FP in TS](https://dev.to/gcanti/getting-started-with-fp-ts-setoid-39f3) - Intro to fp-ts & functional backend programming.
+- [NestJS Docs](https://docs.nestjs.com/) - Official docs for modular backend architecture.
+- [Effect Docs](https://effect.website/docs/essentials/overview) - Structured concurrency and typed effects in TS.
 - [tRPC Docs](https://trpc.io/docs) - Learn type-safe API design.
 - [Prisma Docs](https://www.prisma.io/docs) - Type-safe DB integration.
 - [Drizzle ORM Guide](https://orm.drizzle.team/docs/overview) - Lightweight SQL-first ORM with TS.
