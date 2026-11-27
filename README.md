@@ -36,6 +36,7 @@ Focused on production-grade tooling, patterns, and real-world apps.
 - [Remix/React Router (who knows?)](https://github.com/remix-run/react-router) - Multi-strategy router for React. Can be used as a React framework or as a library.
 - [tRPC](https://trpc.io/) - End-to-end type-safe APIs without code generation.
 - [ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
+- [xeno.js](https://www.xeno-js.it/) - Framework for Node.js and Vue, with native CQRS, DI and no decorators. Includes a CLI and Copilot/Claude skills.
 ---
 
 ## Libraries
